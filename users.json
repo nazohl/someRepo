@@ -1,0 +1,17 @@
+[
+  {
+    "userName" : "Jason",
+    "age": "34",
+    "location": "Hamiltion, NJ" 
+  }
+  {
+    "userName" : "Hanna",
+    "age": "54",
+    "location": "Newport, NJ" 
+  }
+  {
+    "userName" : "Steve",
+    "age": "90",
+    "location": "Belmar, NJ" 
+  }
+]
